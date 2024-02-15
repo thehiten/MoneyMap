@@ -1,0 +1,42 @@
+/* ExpenseForm.css */
+.new-expense_controls {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .new-expense_control {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+  }
+  
+  .new-expense_control label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .new-expense_control input {
+    font: inherit;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 20rem;
+  }
+  
+  .new-expense_actions button {
+    font: inherit;
+    cursor: pointer;
+    padding: 0.5rem 1.5rem;
+    border: 1px solid #4CAF50;
+    background-color: #4CAF50;
+    color: white;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .new-expense_actions button:hover {
+    background-color: #45a049;
+    border-color: #45a049;
+  }
+  

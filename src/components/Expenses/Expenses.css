@@ -1,0 +1,13 @@
+/* Expenses.css */
+
+.expenses-container {
+  
+    padding: 1rem;
+    background-color: rgb(31, 31, 31);
+    margin: 32px auto;
+    width: 50rem;
+    max-width: 95%;
+}
+
+/* You can add more CSS styles as needed */
+
