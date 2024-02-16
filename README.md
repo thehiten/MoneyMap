@@ -29,3 +29,7 @@ CSS is used to style the components and layout of the Expense Tracker website, e
 
 By leveraging these technologies and best practices, the front end of the Expense Tracker website provides a user-friendly interface for managing expenses and accessing valuable financial insights.
 
+screenshot:
+
+![image](https://github.com/thehiten/MoneyMap/assets/146644282/13f28eb7-7e2a-418f-aac2-bfb1914e16e7)
+
